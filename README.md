@@ -3,8 +3,10 @@
 ### 使用步驟
 - 1. 下載xampp
 - 2. 把我的專案pull拉下來
-- 3. 開瀏覽器 打開localhost
-- 4. 應該就可以了
+- 3. 第一個Apache 打開
+- 4. pull下來的東西要放在xampp下面的htdoc資料夾裡
+- 5. 網址打localhost/SE_web-master
+- 6. 應該就可以了
 
 
 ### 進度
